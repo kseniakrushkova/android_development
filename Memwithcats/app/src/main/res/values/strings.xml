@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mem with cats</string>
+    <string name="a_cat_in_the_left_bottom_corner">A cat in the left-bottom corner</string>
+    <string name="a_cat_in_the_left_up_corner">A cat in the left-up corner</string>
+    <string name="sleep">Наташ, ты спишь?</string>
+    <string name="morning">Уже 6 часов утра, Наташ</string>
+    <string name="wake_up">Вставай, мы там всё уронили</string>
+    <string name="broken">Мы уронили вообще всё, Наташ, честно</string>
+</resources>
