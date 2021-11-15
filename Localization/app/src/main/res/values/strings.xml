@@ -1,0 +1,8 @@
+<!DOCTYPE resources [<!ENTITY nbsp "&#160;">]>
+
+<resources>
+    <string name="app_name">Localized App</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="immutable" translatable="false">Immutable</string>
+    <string name="immutable_text" translatable="false">Immutable big text was written here</string>
+</resources>
