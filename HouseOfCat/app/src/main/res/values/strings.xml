@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resources [<!ENTITY nbsp "&#160;">]>
+
+<resources>
+    <string name="app_name">Cat House</string>
+
+    <string name="action_save">Save</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_register">Register</string>
+
+    <string name="general_info_text_view">General information</string>
+    <string name="name">Name</string>
+    <string name="city">City</string>
+
+    <string name="gender">Gender</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_other">Other</string>
+    <string name="gender_unset">Unset</string>
+    <string-array name="gender_options">
+        <item>@string/gender_male</item>
+        <item>@string/gender_female</item>
+        <item>@string/gender_other</item>
+        <item>@string/gender_unset</item>
+    </string-array>
+
+    <string name="age">Age</string>
+
+    <string name="guest_quantity">There are %d guests</string>
+
+    <string name="registered">Registered the&nbsp;guest under&nbsp;the&nbsp;id&nbsp;=&nbsp;%d</string>
+    <string name="form_filling_error">The&nbsp;form has been filled incorrectly</string>
+    <string name="registration_error">Failed to&nbsp;register the&nbsp;guest</string>
+</resources>
